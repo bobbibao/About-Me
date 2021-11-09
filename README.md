@@ -3,7 +3,7 @@
 
 <br/>
 <a href="https://www.instagram.com/poppyhoangbao/"> Instagram
-  <img alt="Bao's Instagram"  width="2px" style="color:red;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Bao's Instagram"  width="2px" style="background-color:red;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 ###
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lehoangbao5678@gmail.com">Gmail
