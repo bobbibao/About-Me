@@ -19,7 +19,7 @@
 - 💬 Talk to me about anything. Not really.
 - ⚡️ Fun-Fact: I have an idea; too late.
 
-<!-- #### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I love connecting with different people :) -->
+<! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I love connecting with different people :) -->
 
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; I code with...
