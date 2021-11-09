@@ -43,4 +43,4 @@
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img alt="MongoDB" width="20" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbibao&layout=compact)](https://github.com/bobbibao/github-readme-stats)
+<img alight="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbibao&layout=compact)](https://github.com/bobbibao/github-readme-stats)</img>
