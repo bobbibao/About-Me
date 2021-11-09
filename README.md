@@ -33,12 +33,12 @@
 <code><img alt="ExpressJS" width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPDyR-Xb70DsaMdrk28bt1DZ6xZ061zBDKew&usqp=CAU"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<br>
+</br>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width="20" src="https://www.php.net/images/logos/new-php-logo.svg"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img alt="npm" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"></code>
-<br>
+</br>
 <code><img alt="Github" width="20" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img alt="MongoDB" width="20" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"></code>
