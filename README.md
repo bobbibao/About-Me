@@ -2,8 +2,8 @@
 <h2> Hi! I'm <a href="https://bobbibao.github.io">Bao Hoang Le</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <br/>
-<a href="https://www.instagram.com/poppyhoangbao/">Instagram
-  <img alt="Bao's Instagram"  width="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" color="Red"/>
+<a href="https://www.instagram.com/poppyhoangbao/"> <h5 color="Red">Instagram <h5>
+  <img alt="Bao's Instagram"  width="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 ###
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lehoangbao5678@gmail.com">Gmail
