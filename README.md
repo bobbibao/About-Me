@@ -3,9 +3,8 @@
 
 <br/>
 <a href="https://www.instagram.com/poppyhoangbao/">
-  <img alt="Bao's Instagram"  align="left" width="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Bao's Instagram"  align="left" width="2px" src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-icon-PNG.png" />
 </a>
-###
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lehoangbao5678@gmail.com">
   <img align="left" alt="Bao's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
