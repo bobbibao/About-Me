@@ -2,16 +2,15 @@
 <h2> Hi! I'm <a href="https://bobbibao.github.io">Bao Hoang Le</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <br/>
-<a href="https://www.instagram.com/poppyhoangbao/"> Instagram
-  <img alt="Bao's Instagram"  width="2px" style="background-color:red;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/poppyhoangbao/">
+  <img alt="Bao's Instagram"  width="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 ###
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lehoangbao5678@gmail.com">Gmail
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lehoangbao5678@gmail.com">
   <img align="right" alt="Bao's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
-<br /><br />
-
-<p align="left"><em>I'm a Student at IUH University.</em></p>
+<br/>
+<p align="left" style="color:red;"><em>I'm a Student at IUH University.</em></p>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
 
