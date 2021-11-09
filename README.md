@@ -3,10 +3,7 @@
 
 <br/>
 <a href="https://www.instagram.com/poppyhoangbao/">
-  <img align="left" alt="Bao | Instagram" width="22px" src="https://cdn.tgdd.vn/Files/2016/05/11/827301/instagram.jpg" />
-</a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lehoangbao5678@gmail.com">
-  <img align="left" alt="Bao | Gmail" width="22px" src="https://thumbs.dreamstime.com/b/m-logo-app-icon-vector-illustration-204184800.jpg" />
+  <img align="left" alt="Bao | Instagram" width="30px" src="https://cdn.tgdd.vn/Files/2016/05/11/827301/instagram.jpg" />
 </a>
 <br/>
 <p align="left" style="color:red;"><em>I'm a Student at IUH University.</em></p>
