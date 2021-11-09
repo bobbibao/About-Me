@@ -6,7 +6,7 @@
   <img align="left" alt="Bao's Instagram"  width="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" color="Red"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lehoangbao5678@gmail.com">Gmail
-  <img align="left" alt="Bao's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+  <img align="right" alt="Bao's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
 <br /><br />
 
@@ -14,7 +14,7 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
 
-- 🌱 My pleasure to become a partner with you - Contact to me: lehoangbao5678@gmail.com.
+- 🌱 My pleasure to become a partner with you.
 - :bulb: I'm interested in all new ideas and solutions.
 - 💬 Talk to me about anything. Not really.
 - ⚡️ Fun-Fact: I have an idea; too late.
